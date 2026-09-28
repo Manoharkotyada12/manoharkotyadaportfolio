@@ -1,4 +1,4 @@
-# Manohar Kotyada — Data Science Portfolio
+# [Manohar Kotyada](https://manoharkotyada12.github.io/manoharkotyadaportfolio/) — Data Science Portfolio
 
 A responsive one-page portfolio website created from Manohar Kotyada's resume.
 
